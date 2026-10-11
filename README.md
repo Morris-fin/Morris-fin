@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Morris
 
-<!--
-**Morris-fin/Morris-fin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm based in the Zurich region and have a background in
+software development. I'm currently studying MSc Banking
+and Finance at ZHAW, specializing in Capital Markets
+and Data Science.
 
-Here are some ideas to get you started:
+I'm interested in using programming to understand financial
+data and automate useful tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal projects
+
+I'm starting a collection of independent projects focused
+on financial analysis, reporting and automation.
+
+I'll share working examples, explain my decisions and
+document what I learn along the way.
+
+## Tools
+
+Python · R · SQL · Excel · Git  
+JavaScript · React · React Native
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/morris-wehli-a45635329/)
