@@ -1,26 +1,56 @@
-# Hi, I'm Morris
+# Hey, I'm Morris 👋
 
-I'm based in the Zurich region and have a background in
-software development. I'm currently studying MSc Banking
-and Finance at ZHAW, specializing in Capital Markets
-and Data Science.
+**A developer’s mindset, a finance student’s curiosity.**
 
-I'm interested in using programming to understand financial
-data and automate useful tasks.
+I started out building web and mobile apps. Now I’m exploring
+what happens when programming meets finance—and finding
+plenty of reasons to open another Python notebook.
 
-## Personal projects
+Based in the Zurich region 🇨🇭
 
-I'm starting a collection of independent projects focused
-on financial analysis, reporting and automation.
+## A little about me
 
-I'll share working examples, explain my decisions and
-document what I learn along the way.
+💻 **Software development roots**
+Trained as an application developer (Informatiker EFZ),
+with hands-on experience building apps using React,
+React Native and SQLite.
 
-## Tools
+📈 **A growing interest in finance**
+Currently pursuing an MSc in Banking and Finance at ZHAW,
+specializing in Capital Markets and Data Science.
+Before that, I completed a BSc in International Management.
 
-Python · R · SQL · Excel · Git  
-JavaScript · React · React Native
+🌏 **A year in Taipei**
+Spent a year studying at National Chengchi University
+in Taiwan. I speak German, English and Mandarin,
+plus some French.
 
-## Connect
+✈️ **Experience beyond the keyboard**
+Served as a sergeant in the Swiss Air Force,
+leading a group of around ten and training new recruits.
 
-[LinkedIn](https://www.linkedin.com/in/morris-wehli-a45635329/)
+## What you'll find here
+
+My space for independent personal projects, experiments
+and the occasional “there must be a way to automate this.”
+
+I'm especially interested in:
+
+- Making financial data easier to understand
+- Turning repetitive tasks into useful tools
+- Exploring markets, portfolios and risk
+- Building things that connect finance with code
+
+As projects take shape, I'll share the code, the results
+and what I learned along the way.
+
+## My toolbox
+
+**Data & analysis:** Python · R · SQL · Excel  
+**Development:** JavaScript · React · React Native · Git
+
+## Let's connect
+
+Interested in finance, data or building useful things?
+
+[Find me on LinkedIn →](https://www.linkedin.com/in/morris-wehli-a45635329/)
